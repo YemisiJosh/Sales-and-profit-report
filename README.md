@@ -1,10 +1,11 @@
 # Analyzing Sales and Profit Data - Tableau Superstore
 
 ---
+![S   P Screenshot](https://github.com/user-attachments/assets/d7fa3d7b-2180-4ad2-8041-aca07ece5815)
 
-![S & P Dashboard](https://github.com/user-attachments/assets/629b88a9-8749-4e87-ab4e-e64be5653001)
+
 ---
-[Click to view the dashboard](link-to-dashboard)
+[Click to view the dashboard](https://public.tableau.com/app/profile/yemisi.joshua/viz/SalesandProfit_17322297666320/SPDashboard)
 
 ## Project Overview
 
@@ -23,7 +24,7 @@ The key objectives of this analysis are:
 
 ## Dataset(s)
 
-The **Tableau Superstore** dataset includes a variety of fields related to sales, customer information, and product performance:
+The **customer, order, location and product** datasets includes a variety of fields related to sales, customer information, and product performance:
 - **Source**: Public dataset provided by Tableau.
 - **Size**: ~10,000 transactions across different product categories, customer segments, and regions.
 - **Features**: Order ID, product name, category, sub-category, sales, profit, discount, shipping cost, customer name, region, and order date.
@@ -56,17 +57,6 @@ Key insights derived from the analysis:
 - **Top Categories**: Technology and Office Supplies were the most profitable categories, contributing the largest share of total sales.
 - **Trends**: Monthly sales generally trend upwards
 
----
-
-## Challenges
-
-The main challenge in this project was handling the impact of discounts on profit margins
-
----
-
-## Conclusion & Next Steps
-
-This analysis provided valuable insights into the performance of Tableau's Superstore dataset, highlighting key product categories, regions, and customer segments that contribute to overall profitability. 
 
 ## References
 
