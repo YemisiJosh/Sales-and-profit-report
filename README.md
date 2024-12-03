@@ -1,7 +1,8 @@
 # Analyzing Sales and Profit Data - Tableau Superstore
 
 ---
-![S   P Screenshot](https://github.com/user-attachments/assets/d7fa3d7b-2180-4ad2-8041-aca07ece5815)
+![Screenshot 2024-12-02 213121](https://github.com/user-attachments/assets/2572d35f-6218-4e2f-b9bd-63a7a717dd53)
+
 
 
 ---
